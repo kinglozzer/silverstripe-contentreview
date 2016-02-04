@@ -16,3 +16,4 @@ CMSPageSettingsController:
 SiteConfig:
   extensions:
     - ContentReviewDefaultSettings
+  Test
