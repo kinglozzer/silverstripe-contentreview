@@ -7,7 +7,8 @@
 class LeftAndMainContentReview extends LeftAndMainDecorator {
 	
 	public static $allowed_actions = array(
-		'cms_reviewcontent'
+		'cms_reviewcontent',
+		'test'
 	);
 
 	
